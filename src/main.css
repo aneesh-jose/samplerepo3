@@ -31,6 +31,7 @@ template {
 a {
   background-color: transparent;
   cursor: pointer;
+  display: inline-block;
 }
 a:active,
 a:hover {
